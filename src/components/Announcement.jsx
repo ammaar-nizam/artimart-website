@@ -12,7 +12,7 @@ const Container = styled.div`
 `;
 
 const Announcement = () => {
-  return <Container>Super Deal! Free Shipping on Orders Over $50</Container>;
+  return <Container>Poson Deal Ending Soon! Free Shipping on Orders Over 10,000 LKR</Container>;
 };
 
 export default Announcement;

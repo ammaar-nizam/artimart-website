@@ -1,23 +1,30 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://i.ibb.co/XsdmR2c/1.png",
-    title: "SUMMER SALE",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+    img: "https://storage.googleapis.com/artimart-images-bucket/buddha-statue-hd-featured-images.jpg",
+    title: "UNIQUE CRAFTS",
+    desc: "UNLEASHING THE CRAFTSMANSHIP OF SKILLED ARTISANS.",
     bg: "f5fafd",
   },
   {
     id: 2,
-    img: "https://i.ibb.co/DG69bQ4/2.png",
-    title: "AUTUMN COLLECTION",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+    img: "https://storage.googleapis.com/artimart-images-bucket/creating-masks-hd-featured-images.jpg",
+    title: "ARTISTIC EXPRESSION",
+    desc: "HANDCRAFTED SCULPTURES AND STATUES.",
     bg: "fcf1ed",
   },
   {
     id: 3,
-    img: "https://i.ibb.co/cXFnLLV/3.png",
-    title: "LOUNGEWEAR LOVE",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+    img: "https://storage.googleapis.com/artimart-images-bucket/respect-man-hd-featured-images.jpg",
+    title: "CUSTOM CREATIONS",
+    desc: "TAILORED HANDMADE PRODUCTS JUST FOR YOU.",
+    bg: "fbf0f4",
+  },
+  {
+    id: 4,
+    img: "https://storage.googleapis.com/artimart-images-bucket/net-weaving-hd-featured-images.jpg",
+    title: "EMBROIDERED ELEGANCE",
+    desc: "INTRICATE HANDMADE EMBROIDERY DESIGNS.",
     bg: "fbf0f4",
   },
 ];
@@ -25,55 +32,99 @@ export const sliderItems = [
 export const categories = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    title: "SHIRT STYLE!",
-    cat:"women"
+    img: "https://storage.googleapis.com/artimart-images-bucket/category-batik.jpg",
+    title: "BATIK BLISS!",
+    cat:"Batik"
   },
   {
     id: 2,
-    img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    title: "LOUNGEWEAR LOVE",
-    cat:"coat"
+    img: "https://storage.googleapis.com/artimart-images-bucket/category-wood%20carving.jpg",
+    title: "WOODEN WONDERS",
+    cat:"Wood Carving"
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    title: "LIGHT JACKETS",
-    cat:"jeans"
+    img: "https://storage.googleapis.com/artimart-images-bucket/category-brass-work.jpg",
+    title: "BRASS BRILLIANCE",
+    cat:"Brass Work"
   },
+  {
+    id: 4,
+    img: "https://storage.googleapis.com/artimart-images-bucket/category-cane%20products.jpg",
+    title: "CANE CREATIONS",
+    cat:"Cane Products"
+  },
+  {
+    id: 5,
+    img: "https://storage.googleapis.com/artimart-images-bucket/category-coir-products.jpg",
+    title: "COIR CHARMS",
+    cat:"Coir Products"
+  },
+  {
+    id: 6,
+    img: "https://storage.googleapis.com/artimart-images-bucket/category-drums.jpg",
+    title: "DRUMMING RHYTHMS",
+    cat:"Drums"
+  },
+  {
+    id: 7,
+    img: "https://storage.googleapis.com/artimart-images-bucket/category-pottery.jpg",
+    title: "POTTERY PASSION",
+    cat:"Pottery"
+  },
+  {
+    id: 8,
+    img: "https://storage.googleapis.com/artimart-images-bucket/category-jewellery-makiing.jpg",
+    title: "JEWELRY JOURNEY",
+    cat:"Jewelry Making"
+  },
+  {
+    id: 9,
+    img: "https://storage.googleapis.com/artimart-images-bucket/category-masks.jpg",
+    title: "MASKED MARVELS",
+    cat:"Masks"
+  }
 ];
 
 export const popularProducts = [
   {
     id:1,
-    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+    img:"https://storage.googleapis.com/artimart-images-bucket/fire-mask.jpg",
   },
   {
     id:2,
-    img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+    img:"https://storage.googleapis.com/artimart-images-bucket/blanket-basket.jpg",
   },
   {
     id:3,
-    img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+    img:"https://storage.googleapis.com/artimart-images-bucket/wicker-willow-basket.jpg",
   },
   {
     id:4,
-    img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+    img:"https://storage.googleapis.com/artimart-images-bucket/vintage-silver-drop-ear.jpg",
   },
   {
     id:5,
-    img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+    img:"https://storage.googleapis.com/artimart-images-bucket/vintage-silver-necklace.jpg",
   },
   {
     id:6,
-    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+    img:"https://storage.googleapis.com/artimart-images-bucket/clay-oil-burner.jpg",
   },
   {
     id:7,
-    img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+    img:"https://storage.googleapis.com/artimart-images-bucket/elegant-coasters.jpg",
   },
   {
     id:8,
-    img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+    img:"https://storage.googleapis.com/artimart-images-bucket/wood-elephant.jpg",
   },
+  {
+    id:9,
+    img:"https://storage.googleapis.com/artimart-images-bucket/batik-sarong.jpg",
+  },
+  {
+    id:10,
+    img:"https://storage.googleapis.com/artimart-images-bucket/pottery-coffee-cup.jpg",
+  }
 ]
