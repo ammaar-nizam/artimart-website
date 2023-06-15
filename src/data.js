@@ -30,58 +30,58 @@ export const sliderItems = [
 ];
 
 export const categories = [
-  {
-    id: 1,
-    img: "https://storage.googleapis.com/artimart-images-bucket/category-batik.jpg",
-    title: "BATIK BLISS!",
-    cat:"Batik"
-  },
+  // {
+  //   id: 1,
+  //   img: "https://storage.googleapis.com/artimart-images-bucket/category-batik.jpg",
+  //   title: "BATIK BLISS!",
+  //   cat:"Batik"
+  // },
   {
     id: 2,
     img: "https://storage.googleapis.com/artimart-images-bucket/category-wood%20carving.jpg",
-    title: "WOODEN WONDERS",
+    title: "WOOD CARVINGS",
     cat:"Wood Carving"
   },
-  {
-    id: 3,
-    img: "https://storage.googleapis.com/artimart-images-bucket/category-brass-work.jpg",
-    title: "BRASS BRILLIANCE",
-    cat:"Brass Work"
-  },
+  // {
+  //   id: 3,
+  //   img: "https://storage.googleapis.com/artimart-images-bucket/category-brass-work.jpg",
+  //   title: "BRASS BRILLIANCE",
+  //   cat:"Brass Work"
+  // },
   {
     id: 4,
     img: "https://storage.googleapis.com/artimart-images-bucket/category-cane%20products.jpg",
-    title: "CANE CREATIONS",
+    title: "CANE PRODUCTS",
     cat:"Cane Products"
   },
-  {
-    id: 5,
-    img: "https://storage.googleapis.com/artimart-images-bucket/category-coir-products.jpg",
-    title: "COIR CHARMS",
-    cat:"Coir Products"
-  },
+  // {
+  //   id: 5,
+  //   img: "https://storage.googleapis.com/artimart-images-bucket/category-coir-products.jpg",
+  //   title: "COIR CHARMS",
+  //   cat:"Coir Products"
+  // },
   {
     id: 6,
     img: "https://storage.googleapis.com/artimart-images-bucket/category-drums.jpg",
-    title: "DRUMMING RHYTHMS",
+    title: "DRUMS",
     cat:"Drums"
   },
-  {
-    id: 7,
-    img: "https://storage.googleapis.com/artimart-images-bucket/category-pottery.jpg",
-    title: "POTTERY PASSION",
-    cat:"Pottery"
-  },
+  // {
+  //   id: 7,
+  //   img: "https://storage.googleapis.com/artimart-images-bucket/category-pottery.jpg",
+  //   title: "POTTERY PASSION",
+  //   cat:"Pottery"
+  // },
   {
     id: 8,
     img: "https://storage.googleapis.com/artimart-images-bucket/category-jewellery-makiing.jpg",
-    title: "JEWELRY JOURNEY",
+    title: "JEWELRY MAKING",
     cat:"Jewelry Making"
   },
   {
     id: 9,
     img: "https://storage.googleapis.com/artimart-images-bucket/category-masks.jpg",
-    title: "MASKED MARVELS",
+    title: "MASKS",
     cat:"Masks"
   }
 ];

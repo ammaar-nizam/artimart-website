@@ -20,7 +20,7 @@ const Products = ({ cat, filters, sort }) => {
       try {
         const res = await axios.get(
           cat
-            ? `https://artimart-api.up.railway.app/api/products?category=${cat}`
+            ? `https://artimart-api.up.railway.app/api/products?categoryName=${cat}`
             : "https://artimart-api.up.railway.app/api/products"
         )
         setProducts(res.data);
@@ -61,7 +61,7 @@ const Products = ({ cat, filters, sort }) => {
       {/* {cat
         ? filteredProducts.map((item) => <Product item={item} key={item.id} />)
         : products
-            .slice(0, 8)
+            .slice(0, 10)
             .map((item) => <Product item={item} key={item.id} />)} */}
 
       {popularProducts.map((item) => (
